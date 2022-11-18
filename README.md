@@ -2,7 +2,7 @@
 Monitoring Code
 
 
-Instructions:
+# Instructions:
 # Step 1: Select one directory consist of files (txt,pdf,py,...etc.)
 #
 # Step 2: Run the file monitor.py
